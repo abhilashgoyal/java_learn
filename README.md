@@ -31,4 +31,4 @@ output:
 
 2: seive_prime.java
 
-Uses the seive algorithm to print all the primes number upto a limit 'n' enteres by the user.
+Uses the seive algorithm to print all the primes numbers upto a limit 'n' entered by the user.
