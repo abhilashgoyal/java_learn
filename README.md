@@ -27,3 +27,8 @@ output:
     11      16      15      6
 
     10      9       8      7
+
+
+2: seive_prime.java
+
+Uses the seive algorithm to print all the primes number upto a limit 'n' enteres by the user.
