@@ -35,3 +35,9 @@ output:
 2: seive_prime.java
 
 Uses the seive algorithm to print all the primes numbers upto a limit 'n' entered by the user.
+
+3: Given a sequence of points and the order in which it is needed to cover the points. Find the minimum number of steps in which you can achieve it. You start from the first point.
+Eg: input: [(0, 0), (1, 1), (2, 2), (3,3) ]
+    output: 3
+
+
