@@ -1,6 +1,7 @@
 This repository have basic codes which are done on day to day basis
 
 
+
 1: Spirral_array.java
  
 This code prints the array in spiral format:
